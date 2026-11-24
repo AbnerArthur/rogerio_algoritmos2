@@ -11,6 +11,7 @@ Cada lista fica em uma pasta própria e foi desenvolvida em uma branch separada.
 | 3 | Vetor e Matriz | `Lista03_Vetor_e_Matriz` |
 | 4 | Recursividade | `Lista04_Recursao` |
 | 5 | Cadastro de Alunos com Dicionário | `Lista05_Cadastro_Alunos_Dicionario` |
+| 6 | Manipulação de Arquivos | `Lista06_Arquivos` |
 
 ## Como executar
 
@@ -18,4 +19,6 @@ Cada lista fica em uma pasta própria e foi desenvolvida em uma branch separada.
 python Lista01_Funcoes_e_Listas/exercicio01.py
 ```
 
-A Lista 3 usa NumPy: `python -m pip install numpy`
+A Lista 3 usa NumPy e a Lista 6 usa pandas: `python -m pip install numpy pandas`
+
+Na Lista 6, rode o `exercicio01.py` antes dos exercícios 2 a 5, porque ele cria os arquivos `clientes.csv` e `recebimentos.csv`.
