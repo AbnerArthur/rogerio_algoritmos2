@@ -10,6 +10,7 @@ Cada lista fica em uma pasta própria e foi desenvolvida em uma branch separada.
 | 2 | Funções, Listas e Tuplas | `Lista02_Funcoes_Listas_e_Tuplas` |
 | 3 | Vetor e Matriz | `Lista03_Vetor_e_Matriz` |
 | 4 | Recursividade | `Lista04_Recursao` |
+| 5 | Cadastro de Alunos com Dicionário | `Lista05_Cadastro_Alunos_Dicionario` |
 
 ## Como executar
 
